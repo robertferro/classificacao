@@ -1,3 +1,3 @@
 # Machine Learning Classificação
 
-Neste repositório serão abordado alguns tipos de algoritmos de classificação . 
+Neste repositório serão abordados alguns tipos de algoritmos de classificação . 
